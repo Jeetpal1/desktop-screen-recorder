@@ -1,0 +1,2 @@
+# desktop-screen-recorder
+A screen recorder software, which can be installed on your computer. Motivation, I found some of the desktop screen recorder software very cheap (not reliable) and I didn't want their premium version. So, I created my own screen recorder app. Features, it lets you choose which opened app window(record a specific app), or monitor's whole screen (if you have >1 monitor) to record. And saves the recorded video in your local directory (as directed by you).  Technologies: Electron, Node.js, HTML, CSS
